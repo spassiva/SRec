@@ -1,0 +1,104 @@
+
+
+
+body {
+ background-image: url(hhh.gif);
+ background-repeat: no-repeat center ;
+ background-size: cover;
+
+}
+
+ 
+
+ h2 {
+cursor: pointer;
+ font-weight: lighter;
+color: black;
+
+
+}
+
+
+h4{
+
+font-weight: lighter;
+font-size: 50px;
+text-transform: capitalize;
+text-decoration: underline;
+color: white;
+
+
+
+}
+
+
+.btn-submit{
+
+background-color: blue;
+}
+
+
+
+.btn-Help  {
+background-color: white;
+
+	}
+.Login-box{
+width: 280px;
+position: absolute;
+top:55% ;
+left:50%;
+transform: translate(-50%,-50%);
+color: black;
+font-weight: bolder;
+	}
+	
+ .textbox {
+overflow: hidden;
+font-size: 20px;
+width: 100%;
+padding: 8px 0px;
+margin: 8px 0px;
+background: 10em 
+}
+
+
+h1 {
+font-weight: lighter;
+font-size: 20px;
+text-transform: capitalize;
+text-decoration: unset;
+font-style: oblique;
+color: white
+
+}
+
+h5 {
+font-weight: bolder;
+font-size: 20px;
+text-transform: capitalize;
+text-decoration: underline;
+font-style: oblique;
+color:#e9ecef;
+
+
+
+}
+
+
+ .bootstrapcdn {
+
+background-color: black;
+lighting-color: white;
+border-radius: 8em;
+color: white;
+border: 70px;
+}
+
+ .btn-primary {
+background-color: black;
+border-radius: 8em;
+ }
+ .buffer {
+ 	height: 5em
+ }
